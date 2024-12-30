@@ -20,5 +20,5 @@ The goal of this project is to automate the extraction of the list of countries 
 Before running the project, you need to install the following Python packages:
 
 ```bash
-pip install requests beautifulsoup4 sqlite3
+pip install requests beautifulsoup4
 
